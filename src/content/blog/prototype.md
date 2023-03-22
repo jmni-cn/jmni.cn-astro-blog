@@ -1,5 +1,7 @@
 ---
 title: "图解 __proto__、prototype 和 constructor"
+tag: "JavaScript"
+classify: "md"
 description: "图解 __proto__、prototype 和 constructor"
 pubDate: "2023/2/20 11:14:11"
 heroImage: "//static.jmni.cn/blog/img/0e8aac3210394c91a15f25261d0548ad.png"

@@ -1,5 +1,7 @@
 ---
 title: "vue2中的diff算法"
+tag: "Vue"
+classify: "md"
 description: "算法"
 pubDate: "2023/2/16 16:22:29"
 heroImage: "//static.jmni.cn/blog/img/4bacb27f527b46498d6ce0184372cc06.png"

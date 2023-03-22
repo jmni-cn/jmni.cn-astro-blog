@@ -1,5 +1,7 @@
 ---
 title: "JavaScript 笔记"
+tag: "JavaScript"
+classify: "md"
 description: "笔记"
 pubDate: "2023/2/21 16:48:01"
 heroImage: ""

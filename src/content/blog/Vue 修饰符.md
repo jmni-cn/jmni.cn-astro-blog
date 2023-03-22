@@ -1,5 +1,7 @@
 ---
 title: "Vue 修饰符"
+tag: "Vue"
+classify: "md"
 description: "Vue 修饰符"
 pubDate: "2023/2/16 16:22:29"
 heroImage: ""

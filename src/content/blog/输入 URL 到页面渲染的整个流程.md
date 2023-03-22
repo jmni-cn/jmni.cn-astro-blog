@@ -1,5 +1,7 @@
 ---
 title: "输入 URL 到页面渲染的整个流程"
+tag: "性能优化"
+classify: "md"
 description: "性能优化"
 pubDate: "2023/2/15 12:19:14"
 heroImage: "/img/cache.png"

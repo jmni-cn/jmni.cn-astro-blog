@@ -1,5 +1,6 @@
 ---
 title: "Based on OpenAI API (gpt-3.5-turbo)的一款网页端ai聊天应用"
+classify: "daily"
 description: "网页端ai聊天应用"
 pubDate: "2023/03/13"
 heroImage: "/img/chat1.png"

@@ -1,5 +1,7 @@
 ---
 title: "Vue的数据响应式原理"
+tag: "Vue"
+classify: "md"
 description: "Vue的数据响应式原理"
 pubDate: "2023/2/16 16:25:36"
 heroImage: "//static.jmni.cn/blog/img/aafb6eb576b747f2a5f2016b8fc3c54d.png"

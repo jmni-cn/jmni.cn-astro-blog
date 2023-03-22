@@ -1,5 +1,7 @@
 ---
 title: "DOM事件"
+tag: "DOM"
+classify: "md"
 description: "DOM事件"
 pubDate: "2023/2/20 17:12:18"
 heroImage: "/img/event.png"

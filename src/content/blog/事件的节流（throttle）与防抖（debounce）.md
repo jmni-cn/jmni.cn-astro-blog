@@ -1,5 +1,7 @@
 ---
 title: "debounce函数、throttle函数"
+tag: "JavaScript"
+classify: "md"
 description: "debounce函数、throttle函数"
 pubDate: "2023/2/13 19:47:34"
 heroImage: ""
